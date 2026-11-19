@@ -1,0 +1,23 @@
+[project]
+name = "ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "raaya", email = "rayalevy1@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "google-genai>=3.4.0",
+    "gradio>=6.32.0",
+    "openai>=3.55.1",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+ai = "ai:main"
+
+[build-system]
+requires = ["uv_build>=0.13.9,<0.14.0"]
+build-backend = "uv_build"
