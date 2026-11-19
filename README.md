@@ -60,3 +60,10 @@ Input: מה שלומך?
 Output: echo NOT_A_COMMAND
 Input: מחק את הקובץ
 Output: echo NEED_MORE_INFO
+
+
+
+gogle sheets:
+https://docs.google.com/spreadsheets/d/13YJgr2C4tF4rLAYqSZI8yAIhdi2LMyTLEmxh8vtLS-8/edit?usp=sharing
+
+ע
